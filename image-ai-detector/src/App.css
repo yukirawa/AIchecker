@@ -1,0 +1,17 @@
+/*
+  シンプルな中央寄せ・幅制限・余白のCSS例
+  必要に応じて調整してください
+*/
+.container {
+  max-width: 500px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+input[type="file"] {
+  margin: 1rem 0;
+}
+
+section {
+  margin-top: 20px;
+}
